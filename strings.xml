@@ -20,9 +20,9 @@
     <!--App Version-->
     <string name="app_version">Phiên bản phần mềm</string>
 
-    <string name="firmware_version">Firmware Version</string>
+    <string name="firmware_version">phiên bản firmware</string>
     <string name="device_name">Tên Thiết Bị</string>
-    <string name="device_address">Device Address</string>
+    <string name="device_address">Địa chỉ thiết bị</string>
     <!--New Device-->
     <string name="action_new_device">Thiết Bị Mới</string>
     <!--Scan Device-->
