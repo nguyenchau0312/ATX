@@ -292,53 +292,53 @@
     <string name="transmit_upc_a_check_digit">Truyền số kiểm tra UPC-A</string>
     <string name="transmit_upc_e_check_digit">Truyền số kiểm tra UPC-E</string>
     <string name="transmit_upc_e1_check_digit">Truyền số kiểm tra UPC-E1</string>
-    <string name="upc_a_preamble">UPC-A Preamble</string>
-    <string name="upc_e_preamble">UPC-E Preamble</string>
-    <string name="upc_e1_preamble">UPC-E1 Preamble</string>
-    <string name="convert_upc_e_to_upc_a">Convert UPC-E to UPC-A</string>
-    <string name="convert_upcd_e1_to_upc_a">Convert UPC-E1 to UPC-A</string>
-    <string name="ean8_jan8_extend">EAN-8/JAN-8 Extend</string>
-    <string name="coupon_report">Coupon Report</string>
-    <string name="isbt_concatenation">ISBT Concatenation</string>
-    <string name="check_isbt_table">Check ISBT Table</string>
-    <string name="isbt_concatenation_redundancy">ISBT Concatenation Redundancy (2 to 20)</string>
+    <string name="upc_a_preamble">Mở đầuUPC-A</string>
+    <string name="upc_e_preamble">Mở đầu UPC-E</string>
+    <string name="upc_e1_preamble">Mở đầu UPC-E1</string>
+    <string name="convert_upc_e_to_upc_a">Chuyển đổi UPC-E to UPC-A</string>
+    <string name="convert_upcd_e1_to_upc_a">Chuyển đổi UPC-E1 to UPC-A</string>
+    <string name="ean8_jan8_extend">Mở rộng EAN-8/JAN-8</string>
+    <string name="coupon_report">Báo cáo phiếu giảm giá</string>
+    <string name="isbt_concatenation">Ghép ISBT</string>
+    <string name="check_isbt_table">Kiểm tra bảng ISBT</string>
+    <string name="isbt_concatenation_redundancy">Dự phòng kết nối ISBT (2 đến 20)</string>
     <string name="code128_reduced_quiet_zone">Code 128 Reduced Quiet Zone</string>
-    <string name="ignore_code128_fnc4">Ignore Code 128 (FNC4)</string>
-    <string name="code32_prefix">Code 32 Prefix</string>
-    <string name="code39_check_digit_verification">Code 39 Check Digit Verification</string>
-    <string name="transmit_code39_check_digit">Transmit Code 39 Check Digit</string>
-    <string name="code39_full_ascii_conversion">Code 39 Full ASCII Conversion</string>
-    <string name="code39_buffering_scan_store">Code 39 Buffering - Scan/Store</string>
+    <string name="ignore_code128_fnc4">Bỏ qua mã 128 (FNC4)</string>
+    <string name="code32_prefix">Tiền tố Code 32</string>
+    <string name="code39_check_digit_verification">Kiểm tra xác minh mã Code 39</string>
+    <string name="transmit_code39_check_digit">Kiểm tra số truyền code 39</string>
+    <string name="code39_full_ascii_conversion">Chuyển đổi ASCII đầy đủ Code 39</string>
+    <string name="code39_buffering_scan_store">Bộ đệm - Quét / Lưu trữ Code 39</string>
     <string name="code39_reduced_quiet_zone">Code 39 Reduced Quiet Zone</string>
-    <string name="code11_check_digit_verification">Code 11 Check Digit Verification</string>
-    <string name="transmit_code11_check_digit">Transmit Code 11 Check Digits</string>
-    <string name="i2of5_check_digit_verification">I2of5 Check Digit Verification</string>
-    <string name="transmit_i2of5_check_digit">Transmit I2of5 Check Digit</string>
-    <string name="convert_i2of5_to_ean13">Convert I2of5 to EAN-13</string>
-    <string name="i2of5_security_level">I2of5 Security Level</string>
+    <string name="code11_check_digit_verification">Kiểm tra xác minh mã Code 11</string>
+    <string name="transmit_code11_check_digit">Truyền số kiểm tra mã Code 11</string>
+    <string name="i2of5_check_digit_verification">Kiểm tra xác minh mã I2of5</string>
+    <string name="transmit_i2of5_check_digit">Kiểm tra xác minh mã I2of5</string>
+    <string name="convert_i2of5_to_ean13">Chuyển đổi I2of5 bằng EAN-13</string>
+    <string name="i2of5_security_level">Cấp độ bảo mật I2of5</string>
     <string name="i2of5_reduced_quiet_zone">I2of5 Reduced Quiet Zone</string>
-    <string name="clsi_editing">CLSI Editing</string>
-    <string name="notis_editing">NOTIS Editing</string>
+    <string name="clsi_editing">Chỉnh sửa CLSI</string>
+    <string name="notis_editing">Chỉnh sửa NOTIS</string>
     <string name="codabar_uppper_lower_start_stop_character_detection">Codabar Upper or Lower Case Start/Stop Characters Detection</string>
-    <string name="msi_check_digit">MSI Check Digits</string>
-    <string name="transmit_msi_check_digit">Transmit MSI Check Digit(s)</string>
-    <string name="msi_check_digit_algorithm">MSI Check Digit Algorithm</string>
-    <string name="length_type">Length Type</string>
-    <string name="length1">Length1</string>
-    <string name="length2">Length2</string>
-    <string name="matrix2of5_check_digit">Matrix 2 of 5 Check Digit</string>
-    <string name="transmit_matrix2of5_check_digit">Transmit Matrix 2 of 5 Check Digit</string>
-    <string name="transmit_us_postal_check_digit">Transmit US Postal Check Digit</string>
-    <string name="transmit_uk_postal_check_digit">Transmit UK Postal Check Digit</string>
+    <string name="msi_check_digit">Kiểm tra chữ số MSI</string>
+    <string name="transmit_msi_check_digit">Truyền số kiểm tra MSI (s)</string>
+    <string name="msi_check_digit_algorithm">Thuật toán số kiểm tra MSI</string>
+    <string name="length_type">Loại chiều dài</string>
+    <string name="length1">Chiều dài 1</string>
+    <string name="length2">Chiều dài 2</string>
+    <string name="matrix2of5_check_digit">Kiểm tra ma trận số 2 trên 5</string>
+    <string name="transmit_matrix2of5_check_digit">Kiểm tra ma trận truyền số 2 trên 5</string>
+    <string name="transmit_us_postal_check_digit">Truyền số kiểm tra Us Postal</string>
+    <string name="transmit_uk_postal_check_digit">Truyền số kiểm tra Uk Postal</string>
     <string name="australia_post_format">Australia Post Format</string>
-    <string name="gs1_databar_limited_security_level">GS1 DataBar Limited Security Level</string>
-    <string name="convert_gs1_databar_to_upc_ean">Convert GS1 DataBar to UPC/EAN</string>
-    <string name="upc_composite_mode">UPC Composite Mode</string>
-    <string name="composite_beep_mode">Composite Beep Mode</string>
-    <string name="gs1_128_emulation_mode">GS1-128 Emulation Mode for UCC/EAN Composite Codes</string>
+    <string name="gs1_databar_limited_security_level">Cấp độ bảo mật của GS1 DataBar</string>
+    <string name="convert_gs1_databar_to_upc_ean">Chuyển đổi GS1 DataBar sang UPC/EAN</string>
+    <string name="upc_composite_mode">Chế độ tổng hợp UPC</string>
+    <string name="composite_beep_mode">Chế độ kêu tổng hợp</string>
+    <string name="gs1_128_emulation_mode">GS1-128 Chế độ mô phỏng cho mã tổng hợp UCC / EAN</string>
     <string name="code128_emulation">Code 128 Emulation</string>
-    <string name="data_matrix_inverse">Data Matrix Inverse</string>
-    <string name="decode_mirror_images">Decode Mirror Images (Data Matrix Only)</string>
+    <string name="data_matrix_inverse">Ma trận dữ liệu nghịch đảo</string>
+    <string name="decode_mirror_images">Giải mã hình ảnh phản chiếu (Chỉ ma trận dữ liệu)</string>
     <string name="qr_inverse">QR Inverse</string>
     <string name="aztec_inverse">Aztec Inverse</string>
     <string name="han_xin_inverse">Han Xin Inverse</string>
@@ -456,12 +456,12 @@
     <string name="australian_post_interpretation">Australian Post Interpretation</string>
     <string name="china_post_message_length">China Post (Hong Kong 2 of 5) Message Length</string>
     <string name="korea_post_message_length">Korea Post Message Length</string>
-    <string name="korea_post_check_digit">Korea Post Check Digit</string>
-    <string name="message_length">Message Length</string>
+    <string name="korea_post_check_digit">Kiểm tra số Korea Post</string>
+    <string name="message_length">Độ dài tin nhắn</string>
     <string name="min">Min</string>
     <string name="max">Max</string>
-    <string name="code_page">Code Page</string>
-    <string name="video_reverse">Video Reverse</string>
+    <string name="code_page">Mã trang</string>
+    <string name="video_reverse">Đảo ngược Video</string>
     <!-- 
     	ETC
     -->
@@ -474,15 +474,15 @@
     <!-- 
     	Option
     -->
-    <string name="option_group_device">Device Options</string>
-    <string name="option_group_rfid">RFID Options</string>
-    <string name="option_group_barcode">Barcode Options</string>
+    <string name="option_group_device">Lựa chọn thiết bị</string>
+    <string name="option_group_rfid">Tùy chọn RFID</string>
+    <string name="option_group_barcode">Tùy chọn mã vạch</string>
     <!-- 
     	Access
     -->
-    <string name="access_result">Result</string>
-    <string name="access_read_data">Read Data</string>
-    <string name="access_param_setting">Param Setting</string>
-    <string name="access_lock_select">Lock Select</string>
-    <string name="access_data_noti">Tag memory to Access. Click the button</string>
+    <string name="access_result">Kết quả</string>
+    <string name="access_read_data">Đọc dữ liệu</string>
+    <string name="access_param_setting">Cài đặt tham số</string>
+    <string name="access_lock_select">Khóa Chọn</string>
+    <string name="access_data_noti">Thẻ nhớ để truy cập. Nhấn vào nút</string>
 </resources>
