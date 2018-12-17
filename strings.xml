@@ -65,21 +65,21 @@
     <string name="view_read_memory">Đọc Bộ Nhớ</string>
     <string name="view_write_memory">Ghi Bộ NHớ</string>
     <string name="view_lock_memory">Khóa Bộ Nhớ</string>
-    <string name="view_rfid_option">RFID Option</string>
+    <string name="view_rfid_option">Tùy chọn thẻ RFID</string>
 
-    <string name="title_error">Error</string>
+    <string name="title_error">Lỗi</string>
     <string name="title_system_error">Lỗi Hệ Thống</string>
     <string name="title_bt_error">Bluetooth Error</string>
     <string name="title_log_level">Log Level</string>
     <string name="title_system">Hệ Thống</string>
     <string name="title_bt">Bluetooth</string>
     <string name="title_wifi">WIFI</string>
-    <string name="title_rfid_option">RFID Options</string>
+    <string name="title_rfid_option">Tùy chọn thẻ RFID</string>
     <string name="title_barcode_option">Tùy Chọn Barcode</string>
-    <string name="title_select_mask_6c">Select Mask 6c</string>
+    <string name="title_select_mask_6c">Chọn mặt nạ 6c</string>
     <string name="title_select_mask_6c_item">Select Mask Item</string>
     <string name="title_symbol_state">Symbologies State</string>
-    <string name="title_select_mask">Select Mask</string>
+    <string name="title_select_mask">Chọn mặt nạ</string>
     <string name="title_write_tag">Write to tag</string>
 
     <string name="msg_not_support_bt">Thiết bị này không hỗ trợ Bluetooth. Vui lòng kiểm tra lại.</string>
@@ -97,7 +97,7 @@
     <string name="msg_fail_lock_tag">Không thể khóa thẻ dữ liệu.</string>
     <string name="msg_unlock_memory">Đang mở khóa thẻ dữ lệu. Vui lòng chờ.</string>
     <string name="msg_fail_unlock_tag">Không thể mở khóa thẻ dữ liệu.</string>
-    <string name="msg_permalock_memory">Permalocking the tag. Please wait.</string>
+    <string name="msg_permalock_memory">Permalocking the tag. Vui lòng chờ.</string>
     <string name="msg_fail_permalock_tag">Could not permalock tag.</string>
     <string name="msg_set_password">Đang cài đặt mật khẩu cho thẻ dữ liệu. Vui lòng chờ.</string>
     <string name="msg_fail_set_password">KHông thể đặt mật khẩu cho thẻ dữ liệu.</string>
