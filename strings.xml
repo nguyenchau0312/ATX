@@ -2,9 +2,9 @@
 <resources>
 
     <string name="app_name">ATX88 Test</string>
-    <string name="app_regist_device_name">Regist Device</string>
+    <string name="app_regist_device_name">Đăng ký thiết bị</string>
     <!---Regist Device-->
-    <string name="discover_device_name">Đăng Ký Thiết Bị</string>
+    <string name="discover_device_name">Tìm Thiết Bị</string>
     <!--Connect to new device-->
     <string name="menu_connect_new_device">Kết Nối Thiết Bị Mới</string>
     <!--Connect to last device-->
